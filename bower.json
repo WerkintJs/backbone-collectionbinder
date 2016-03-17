@@ -1,11 +1,10 @@
 {
-  "name": "backbone.modelbinder",
+  "name": "backbone.collectionbinder",
   "version": "1.0.0",
   "moduleType": [
     "amd"
   ],
   "main": [
-    "backbone.modelbinder.js",
     "backbone.collectionbinder.js"
   ]
 }

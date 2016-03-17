@@ -5,7 +5,7 @@
 (function (factory) {
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
-    define(['underscore', 'jquery', 'backbone', './backbone.modelbinder'], factory);
+    define(['underscore', 'jquery', 'backbone', 'backbone.modelbinder'], factory);
   }
   else if(typeof module !== 'undefined' && module.exports) {
     // CommonJS
